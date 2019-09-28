@@ -17,7 +17,7 @@
         <ul id="promobox">
             <li>
                 <div align="center">
-                    <asp:Label align="center" Font-Size="25px" ID="LblDocNameT1" runat="server" Text="Nombre Doctor"></asp:Label>
+                    <asp:Label align="center" Font-Size="25px" ID="LblDocNameT1" runat="server" Text="Douglas Fernández"></asp:Label>
                 </div>
                 <hr style="margin-top: 3px; margin-bottom: 3px" />
                 <div align="center" class="logo">
