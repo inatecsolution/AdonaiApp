@@ -24,7 +24,7 @@
                     <asp:Label align="center" Font-Size="25px" ID="LblTurnoActualT1" runat="server" Text="TURNO ACTUAL"></asp:Label>
                 </div>
                 <div align="center">
-                    <asp:Label align="center" Font-Size="60px" ID="LblT1" runat="server" Text="22"></asp:Label>
+                    <asp:Label align="center" Font-Size="60px" ID="LblT1" runat="server" Text="33"></asp:Label>
                 </div>
                 <hr style="margin-top: 3px; margin-bottom: 3px" />
                 <asp:Label align="center" Font-Size="25px" ID="LblNombreT1" runat="server" Text="Nombre del Paciente"></asp:Label>
